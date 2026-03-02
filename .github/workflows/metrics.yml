@@ -32,4 +32,5 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_traffic: yes
+          plugin_stars: yes
           
